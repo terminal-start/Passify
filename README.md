@@ -28,7 +28,7 @@ Passify is a modern password generator extension for Google Chrome. It allows us
 
 ## Feedback
 
-We welcome any feedback or suggestions for improving Passify. Feel free to open an issue or pull request on GitHub.
+We welcome any feedback or suggestions for improving Passify. Feel free to join the [Discord](https://discord.gg/EHHAe83E68)
 
 ## License
 
