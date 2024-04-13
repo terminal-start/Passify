@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Passify",
+  "version": "1.0",
+  "description": "A modern password generator extension.",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Generate Secure Passwords",
+    "icon": "icons/access-key-blue-icon.png"
+  },
+  "icons": {
+    "16": "icons/access-key-blue-icon.png",
+    "48": "icons/access-key-blue-icon.png",
+    "128": "icons/access-key-blue-icon.png"
+  }
+}
